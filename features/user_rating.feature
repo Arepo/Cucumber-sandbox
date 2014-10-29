@@ -7,10 +7,10 @@ Pretty much:
 
   Awww, look mate: rating a user
     Y'know I am on Genghis Khan's page
-    Too right I rate him 0 out of 10
+    Too right 10 people have rated him 0/10
     Too right I then succumb to his gentle persuasion
     Too right I rate him 10 out of 10
-    But at the end of the day I reckon he should have a rating of 5 out of 10
+    But at the end of the day I reckon his rating is 0.91/10
 
   Awww, look mate: viewing a user's rating
     Y'know I am on Genghis Khan's page

@@ -6,6 +6,6 @@ Feature:
 
   Scenario: Attaching a dynamic image to a URL
     # Is this even possible?
-    Given I send an email
+    Given I send an email from a gmail account
     And it contains the appropriate link
     Then the recipient will see my current crockeritude image
