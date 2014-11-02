@@ -5,5 +5,5 @@ Feature:
 
   Scenario: signing up as a new user
     Given I am not logged in
-    When I visit the homepage
+    When I visit the home page
     Then I should be prompted to create an account
