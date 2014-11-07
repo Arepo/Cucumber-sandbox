@@ -34,3 +34,7 @@ end
 Given /^I should see a message telling me I've already voted$/ do
   puts "rack off, mate!"
 end
+
+Then(/^I should see the text "(.*?)"$/) do |text|
+  puts "#{text}"
+end

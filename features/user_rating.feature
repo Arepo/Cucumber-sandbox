@@ -5,7 +5,7 @@ Pretty much:
   I want to rate a registered user out of 10 on a crockerometer
   So that their crockeritude rating accurately reflects them
 
-  First off:
+  First off: We look up a user
     Y'know I am on Genghis Khan's page
 
   Awww, look mate: rating a user
