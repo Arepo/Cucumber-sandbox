@@ -31,7 +31,14 @@ Given /^we have a user called "(.+)"$/ do |username|
   puts username
 end
 
-Given /^I should see a message telling me I've already voted$/ do
+Given(/^we have two users, called "(.*?)" and "(.*?)"$/) do |arg1, arg2|
+  steps %{
+    Given we have a user called "#{arg1}"
+    And we have a user called "#{arg2}"
+  }
+end
+
+Then /^I should see a message telling me I've already voted$/ do
   puts "rack off, mate!"
 end
 

@@ -31,3 +31,6 @@ Pretty much:
   Awww, look mate: viewing a user's min crockeritude image
     Yeah nah his rating is 0/10
     But at the end of the day I reckon I should see an image: "another_image"
+
+
+
