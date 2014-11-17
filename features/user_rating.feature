@@ -10,7 +10,7 @@ Pretty much:
 
   Awww, look mate: rating a user
     Too right 10 people have rated him 0/10
-    Yeah nah I then succumb to his gentle persuasion
+    Yeah nah I succumb to his gentle persuasion
     Too right I rate him 10 out of 10
     But at the end of the day I reckon his rating is 0.91/10
 
@@ -28,6 +28,7 @@ Pretty much:
     Too right his rating is 10/10
     But at the end of the day I reckon I should see an image: "an_image"
 
+  @testing_tag
   Awww, look mate: viewing a user's min crockeritude image
     Yeah nah his rating is 0/10
     But at the end of the day I reckon I should see an image: "another_image"

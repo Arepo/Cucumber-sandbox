@@ -7,7 +7,7 @@ Given /^(\d*) people have rated (?:him|her) (\d{1,2}\/10)$/ do |number, rating|
   puts rating
 end
 
-Given /^I then succumb to his gentle persuasion$/ do
+Given /^I succumb to his gentle persuasion$/ do
   nil #some things are better left unsaid
 end
 
